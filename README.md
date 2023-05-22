@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Levent, a curious software engineer. I have professional experience in the field of .NET.
+I am Levent, a curious software engineer. I have professional experience in .NET.
 
 I am especially curious about the application of theoretical knowledge as a practice in projects. 
 
